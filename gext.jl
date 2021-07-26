@@ -169,7 +169,7 @@ function get_cmat(file)
 end
 
 function get_smat(file)
-  """ Placeholder for a function that returns an array smat of size nocc×(nocc+1)/2×nmat
+  """ Placeholder for a function that returns an array smat of size nbas×(nbas+1)/2×nmat
   containing lower diagonal of overlap matrices """
 end
 
