@@ -108,7 +108,7 @@ function logGr(γ_ref, γ)
 end
 
 function logGrs(γ_ref, γs)
-  """ Perfor the logarithms on a list of points """
+  """ Perform the logarithms on a list of points """
   nbas, nocc, nmat = size(cmat)
 
   Γs = Array{Float64}(undef, nbas, nocc, nmat)
