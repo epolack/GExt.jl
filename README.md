@@ -1,3 +1,5 @@
 # GExt.jl: Grassmann Extrapolation
 
-Supporting Julia template for [JCTC]
+Authors: Étienne Polack, Geneviève Dusson, Filippo Lipparini and Benjamin Stamm
+
+Julia template for the Grassmann Extrpolation method for density matrices ([JCTC], [arXiv])
