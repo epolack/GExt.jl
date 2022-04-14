@@ -1,7 +1,8 @@
 # GExt.jl: Grassmann Extrapolation of Density Matrices for Born–Oppenheimer Molecular Dynamics
-Authors: Étienne Polack, Geneviève Dusson, Benjamin Stamm and Filippo Lipparini
 
-Julia template for the Grassmann Extrpolation method for density matrices ([JCTC](https://doi.org/10.1021/acs.jctc.1c00751), [arXiv](https://arxiv.org/abs/2107.13218))
+Authors: Étienne Polack, [Geneviève Dusson](https://gdusson.perso.math.cnrs.fr/), [Benjamin Stamm](https://orcid.org/0000-0003-3375-483X) and [Filippo Lipparini](https://orcid.org/0000-0002-4947-3912)
+
+Julia template for the Grassmann Extrpolation method for density matrices ([JCTC](https://doi.org/10.1021/acs.jctc.1c00751), [arXiv](https://arxiv.org/abs/2107.13218), [HAL](https://hal.archives-ouvertes.fr/hal-03302511v2))
 
 ## Abstract
 
